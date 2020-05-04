@@ -34,7 +34,7 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 **Service Providers**
 
-we may employ third-party companies and individuals due to the following reasons:
+We may employ third-party companies and individuals due to the following reasons:
 
 - To facilitate our Service;
 - To provide the Service on our behalf;
